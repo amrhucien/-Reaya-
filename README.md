@@ -1,8 +1,12 @@
 Project name:
-Reaya Public Health Insurance Care System - رعاية منظومة التأمين الصحي
+رعاية منظومة التأمين الصحي
 
 Description:
-Reaya "رعاية" is a proposed government mobile and web platform that allows elderly and chronic patients to renew prescriptions remotely while connecting patients, physicians, and insurance pharmacies, reducing congestion and supporting continuity of care through an integrated donation system.
+رعاية هو تطبيق وموقع ويب حكومي مقترح يسهّل على كبار السن ومرضى الأمراض المزمنة تجديد العلاج عن بُعد ويربط بين المريض والطبيب والصيدلية داخل منظومة التأمين الصحي.
+يهدف إلى تقليل الزحام وتحسين استمرارية الرعاية مع دعم توفير الدواء عبر نظام تبرعات مدمج.
+
+Reaya is a proposed government mobile and web platform that enables elderly and chronic patients to renew prescriptions remotely while connecting patients, physicians, and insurance pharmacies within the public health system.
+It aims to reduce congestion, improve continuity of care, and support access to medication through an integrated donation system.
 
 Team Members’ Names and Roles:
 1- Amr Ahmed Hussien (UI Designer | Team Leader)
@@ -11,6 +15,7 @@ Team Members’ Names and Roles:
 4- Samy Hassan Taha (UI Designer)
 
 Instructor’s Name: Dr. Eman Abdellatif
-
+Figjam Link:
+https://www.figma.com/board/6TJzvO7f2vLuQPYuuTRFpM/Reaya-Project-%7C-%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A?node-id=0-1&t=6L9GSEthNCi3RkFF-1
 Google Drive Link:
 https://drive.google.com/drive/folders/1nPV-TIp6MDLPIK_b6rOtwFWsDn7m491s?usp=sharing
