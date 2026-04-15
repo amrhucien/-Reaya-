@@ -14,11 +14,15 @@ Team Members’ Names and Roles:
 3- Amal Fawzy Ahmed (UI Designer)
 4- Samy Hassan Taha (UI Designer)
 
+---
 Team Members
-Amr Ahmed Hussien (UI Designer | Team Leader)
-Salma Hassan Elsayed (UI Designer)
-Amal Fawzy Ahmed (UI Designer)
-Samy Hassan Taha (UI Designer)
+[Leader Name]
+[Member Name]
+[Member Name]
+[Member Name]
+[Member Name]
+---
+
 
 
 Instructor’s Name: Dr. Eman Abdellatif
