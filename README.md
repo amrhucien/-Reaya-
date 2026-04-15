@@ -18,9 +18,7 @@ Team Members’ Names and Roles:
 
 4- Samy Hassan Taha (UI Designer)
 
-
-
-Instructor’s Name: Dr. Eman Abdellatif
+## Instructor’s Name: Dr. Eman Abdellatif
 
 1- Figjam Link:
 https://www.figma.com/board/6TJzvO7f2vLuQPYuuTRFpM/Reaya-Project-%7C-%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A?node-id=0-1&t=6L9GSEthNCi3RkFF-1
