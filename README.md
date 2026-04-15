@@ -10,13 +10,13 @@ It aims to reduce congestion, improve continuity of care, and support access to 
 
 Team Members’ Names and Roles:
 
-1- [Amr Ahmed Hussien (UI Designer | Team Leader)]
+1- Amr Ahmed Hussien (UI Designer | Team Leader)
 
-2- [Salma Hassan Elsayed (UI Designer)]
+2- Salma Hassan Elsayed (UI Designer)
 
-3- [Amal Fawzy Ahmed (UI Designer)]
+3- Amal Fawzy Ahmed (UI Designer)
 
-4- [Samy Hassan Taha (UI Designer)]
+4- Samy Hassan Taha (UI Designer)
 
 
 
