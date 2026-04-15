@@ -25,3 +25,26 @@ https://www.figma.com/board/6TJzvO7f2vLuQPYuuTRFpM/Reaya-Project-%7C-%D8%B1%D8%B
 
 3- Google Drive Link:
 https://drive.google.com/drive/folders/1nPV-TIp6MDLPIK_b6rOtwFWsDn7m491s?usp=sharing
+
+
+
+
+
+[رعاية]
+[منظومة التأمين الصحي]
+---
+Team Members
+[Amr Ahmed Hussien (UI Designer | Team Leader)]
+[Salma Hassan Elsayed (UI Designer)]
+[Amal Fawzy Ahmed (UI Designer)]
+[Samy Hassan Taha (UI Designer)]
+
+---
+Instructor
+[Eman Abdellatif]
+---
+Project Overview
+[رعاية هو تطبيق وموقع ويب حكومي مقترح يسهّل على كبار السن ومرضى الأمراض المزمنة تجديد العلاج عن بُعد ويربط بين المريض والطبيب والصيدلية داخل منظومة التأمين الصحي. يهدف إلى تقليل الزحام وتحسين استمرارية الرعاية مع دعم توفير الدواء عبر نظام تبرعات مدمج.
+
+Reaya is a proposed government mobile and web platform that enables elderly and chronic patients to renew prescriptions remotely while connecting patients, physicians, and insurance pharmacies within the public health system. It aims to reduce congestion, improve continuity of care, and support access to medication through an integrated donation system.]
+
