@@ -9,19 +9,10 @@ Reaya is a proposed government mobile and web platform that enables elderly and 
 It aims to reduce congestion, improve continuity of care, and support access to medication through an integrated donation system.
 
 Team Members’ Names and Roles:
-1- Amr Ahmed Hussien (UI Designer | Team Leader)
-2- Salma Hassan Elsayed (UI Designer)
-3- Amal Fawzy Ahmed (UI Designer)
-4- Samy Hassan Taha (UI Designer)
-
----
-Team Members
-[Leader Name]
-[Member Name]
-[Member Name]
-[Member Name]
-[Member Name]
----
+1- [Amr Ahmed Hussien (UI Designer | Team Leader)]
+2- [Salma Hassan Elsayed (UI Designer)]
+3- [Amal Fawzy Ahmed (UI Designer)]
+4- [Samy Hassan Taha (UI Designer)]
 
 
 
