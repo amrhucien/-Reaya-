@@ -1,14 +1,16 @@
-Project name:
+## Project name:
+
 رعاية منظومة التأمين الصحي
 
-Description:
+## Description:
+
 رعاية هو تطبيق وموقع ويب حكومي مقترح يسهّل على كبار السن ومرضى الأمراض المزمنة تجديد العلاج عن بُعد ويربط بين المريض والطبيب والصيدلية داخل منظومة التأمين الصحي.
 يهدف إلى تقليل الزحام وتحسين استمرارية الرعاية مع دعم توفير الدواء عبر نظام تبرعات مدمج.
 
 Reaya is a proposed government mobile and web platform that enables elderly and chronic patients to renew prescriptions remotely while connecting patients, physicians, and insurance pharmacies within the public health system.
 It aims to reduce congestion, improve continuity of care, and support access to medication through an integrated donation system.
 
-Team Members’ Names and Roles:
+## Team Members’ Names and Roles:
 
 1- Amr Ahmed Hussien (UI Designer | Team Leader)
 
