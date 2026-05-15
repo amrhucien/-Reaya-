@@ -12,22 +12,26 @@ It aims to reduce congestion, improve continuity of care, and support access to 
 
 ## Team Members’ Names and Roles:
 
-1- Amr Ahmed Hussien (UI Designer | Team Leader)
+1- Amr Ahmed Hussien (UX Researcher/ documentation (Case study)/ UX Analyst/ UX Writer/ UI Designer | Team Leader)
 
-2- Salma Hassan Elsayed (UI Designer)
+2- Salma Hassan Elsayed (UX Researcher/ documentation (Case study)/ UX Analyst/ UI Designer)
 
-3- Amal Fawzy Ahmed (UI Designer)
+3- Amal Fawzy Ahmed (UX Researcher/ documentation (Case study)/ UX Analyst/ UX Writer/ UI Designer)
 
-4- Samy Hassan Taha (UI Designer)
+4- Samy Hassan Taha (UX Researcher/ UX Analyst/ UI Designer)
 
 ## Instructor’s Name: Dr. Eman Abdellatif
 
 1- Figjam Link:
 https://www.figma.com/board/6TJzvO7f2vLuQPYuuTRFpM/Reaya-Project-%7C-%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A?node-id=0-1&t=6L9GSEthNCi3RkFF-1
 
-2- Figma Link: https://www.figma.com/design/EjtV9tBD1ROB1U7hBIPWcc/%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A?node-id=2-56&t=kykomkDvwa9Z6gDz-1
+2- Figma Link:
+https://www.figma.com/design/EjtV9tBD1ROB1U7hBIPWcc/%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A?node-id=2-56&t=kykomkDvwa9Z6gDz-1
+
+3- Case Study Link:
+https://drive.google.com/file/d/17MaVlp5WACdozbuH1Bog6wSv9ERmanca/view?usp=sharing
 
 3- Google Drive Link:
-https://drive.google.com/drive/folders/1nPV-TIp6MDLPIK_b6rOtwFWsDn7m491s?usp=sharing
+https://drive.google.com/drive/folders/1nPV-TIp6MDLPIK_b6rOtwFWsDn7m491s?usp=sharing (The case study folder)
 
 
